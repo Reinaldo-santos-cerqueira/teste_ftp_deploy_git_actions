@@ -18,5 +18,4 @@ jobs:
         username: ${{ secrets.username }}
         password: ${{ secrets.password }}
         server-dir: /var/www/html/teste/
-        protocol: ftp
         port: 4512
